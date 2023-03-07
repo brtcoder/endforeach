@@ -6,7 +6,7 @@ $footwear = [
 	"boots" => 3
 	];
 ?>
-
+//what was this for?
 <p>Our footwear:</p>
 
 <?php
